@@ -1,0 +1,45 @@
+[
+    {
+        "id": 0,
+        "name": "Interviews towards designing support tools for TTRPG game masters",
+        "authors": "Devi Acharya, Michael Mateas, and Noah Wardrip-Fruin",
+        "venue": "Poster presentation, International Conference on Interactive Digital Storytelling",
+        "year": "2021", 
+        "url": "#"
+    }, 
+    {
+        "id": "1", 
+        "name": "Story Improvisation in Tabletop Roleplaying Games: Towards a Computational Assistant for Game Masters",
+        "authors": "Devi Acharya, Michael Mateas, and Noah Wardrip-Fruin", 
+        "venue": "Conference on Games", 
+        "year": "2021"
+    },
+    {
+        "id": "2", 
+        "name": "Tabletop Roleplaying Games as Procedural Content Generators", 
+        "authors": "Matthew Guzdial, Devi Acharya, Max Kreminski, Michael Cook, Mirjam Eladhari, Antonios Liapis, Anne Sullivan", 
+        "venue": "International Conference on the Foundations of Digital Games", 
+        "year": "2020"
+    }, 
+    {
+        "id": "3", 
+        "name": "Spatial cognitive implications of teleporting through virtual environments", 
+        "authors": "Lucia A Cherep, Alex F Lim, Jonathan W Kelly, Devi Acharya, Alfredo Velasco, Emanuel Bustamante, Alec G Ostrander, and Stephen B Gilbert", 
+        "venue": "Journal of Experimental Psychology: Applied (Raymond S. Nickerson Award for best paper)", 
+        "year": "2020"
+    },
+    {
+        "id": "4", 
+        "name": "Cozy mystery construction kit: Prototyping toward an AI-assisted collaborative storytelling mystery game",
+        "authors": "Max Kreminski, Devi Acharya, Nick Junius, Elisabeth Oliver, Kate Compton, Melanie Dickinson, Cyril Focht, Stacey Mason, Stella Mazeika, and Noah Wardrip-Fruin", 
+        "venue": "Procedural Generation Workshop, International Converence on the Foundations of Digital Games", 
+        "year": "2019"
+    },
+    {
+        "id": "5", 
+        "name": "Building worlds together: understanding collaborative co-creation of game worlds", 
+        "authors": "Devi Acharya and Noah Wardrip-Fruin", 
+        "venue": "International Conference on the Foundations of Digital Games", 
+        "year": "2019"
+    }
+]
