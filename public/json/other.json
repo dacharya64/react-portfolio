@@ -1,0 +1,23 @@
+[
+    {
+        "id": "subq",
+        "name": "sub-Q Magazine",
+        "role": "Editor",
+        "slug": "subq.jpg",
+        "description": "Co-ran online magazine for interactive fiction by reviewing submissions, editing pieces, and interviewing authors."
+    },
+    {
+        "id": "oet", 
+        "name": "On Equal Terms", 
+        "role": "Research Assistant", 
+        "slug": "equalterms.jpg", 
+        "description": "Developed interactive digital exhibit about the experiences of tradeswomen with the Women's Studies Research Center at Brandeis University."
+    },
+    {
+        "id": "film",
+        "name": "Films and animation", 
+        "role": "Cinematographer, animator, editor", 
+        "slug": "animation.gif",
+        "description": "Created short films and animations as part of the CET study abroad program in Prague and the Getz Media Lab at Brandeis University."
+    }
+]

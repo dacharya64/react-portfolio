@@ -1,0 +1,18 @@
+[
+    {
+        "id": "red_survivor",
+        "priority": false,
+        "tag": "games",
+        "name": "Red Survivor",
+        "role": "UI Artist",
+        "slug": "rs.jpg",
+        "description": "A survival strategy PC game, where you gather resources to survive against killer robots in a war-torn Russia. Made with a team at Mustachio Games. Shown at Boston Festival of Indie Games, 2014."
+    },
+    {
+        "id": "if",
+        "name": "The Abyss and The Ark", 
+        "role": "Writer", 
+        "slug": "abyss.jpg",
+        "description": "Authored and co-authored several interactive fiction games, including The Abyss--a surreal exploration of the mind--and The Ark--a puzzle game set aboard a derelict spaceship."
+    }
+]

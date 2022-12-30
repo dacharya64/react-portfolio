@@ -1,6 +1,8 @@
 [
     {
         "id": "warmer",
+        "priority": true,
+        "tag": "games",
         "name": "Warmer",
         "role": "Unity Developer",
         "slug": "warmer.png",

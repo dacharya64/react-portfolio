@@ -6,6 +6,7 @@ import App from './routes/App';
 import Publications from './routes/Publications';
 import Games from './routes/Games';
 import Research from './routes/Research';
+import Other from './routes/Other';
 
 const router = createHashRouter([
   {
@@ -23,6 +24,10 @@ const router = createHashRouter([
   {
     path: "research",
     element: <Research />
+  },
+  {
+    path: "other",
+    element: <Other />
   }
 ]);
 

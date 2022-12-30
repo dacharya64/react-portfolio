@@ -13,7 +13,7 @@ const Nav = () => {
             <li><a><Link to={`/`}>Featured Projects</Link></a></li>
             <li><a><Link to={`/research`}>Research Projects</Link></a></li>
             <li><a><Link to={`/games`}>Games</Link></a></li>
-            <li><a>Other Media</a></li>
+            <li><a><Link to={`/other`}>Other Projects</Link></a></li>
           </ul>
         </li>
         <li><a href="#" role="button" className="outline"><Link to={`/publications`}>Publications</Link></a></li>

@@ -10,7 +10,7 @@ function ListAllGames({ projects }) {
       }}>
         {
           projects.map(project => (
-            <article key={project.id}>
+            <article className="rounded" key={project.id}>
               <header>
                 <img src={`img/${project.slug}`} alt={project.name} />
               </header>
