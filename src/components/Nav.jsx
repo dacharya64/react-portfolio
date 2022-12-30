@@ -10,8 +10,8 @@ const Nav = () => {
         <li role="list" dir="rtl">
           <a href="#" aria-haspopup="listbox" role="button" className="outline"><Link to={`/`}>Projects</Link></a>
           <ul role="listbox">
-            <li><a><Link to={`/`}>All</Link></a></li>
-            <li><a><Link to={`/research`}>Research</Link></a></li>
+            <li><a><Link to={`/`}>Featured Projects</Link></a></li>
+            <li><a><Link to={`/research`}>Research Projects</Link></a></li>
             <li><a><Link to={`/games`}>Games</Link></a></li>
             <li><a>Other Media</a></li>
           </ul>

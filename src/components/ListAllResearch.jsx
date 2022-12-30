@@ -10,11 +10,11 @@ function ListAllResearch({ projects }) {
       }}>
         {
           projects.map(project => (
-            <article key={project.id}>
+            <article className="rounded" key={project.id}>
               <header>
                 <img src={`img/${project.slug}`} alt={project.name} />
               </header>
-              <h6>{project.name}</h6>
+              <h5>{project.name}</h5>
               <p>{project.description}</p>
               <a href="#" role="button" className="outline">Read more</a>
             </article>

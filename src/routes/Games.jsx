@@ -22,6 +22,7 @@ function Games() {
             <Nav />
             <About />
             <ProjectNav />
+            <h1>Games</h1>
             <ListAllGames projects={projects} />
             <Footer />
         </div>

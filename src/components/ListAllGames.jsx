@@ -14,9 +14,10 @@ function ListAllGames({ projects }) {
               <header>
                 <img src={`img/${project.slug}`} alt={project.name} />
               </header>
-              <h6>{project.name}</h6>
+              <h5>{project.name}</h5>
               <p>{project.description}</p>
               <a href="#" role="button" className="outline">Read more</a>
+              <a href="#" role="button" className="outline">Play now</a>
             </article>
           ))
         }

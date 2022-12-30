@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import About from '../components/About';
 import Footer from '../components/Footer';
 import Nav from '../components/Nav';
+import ListPublications from '../components/ListPublications';
 
 function Publications() {
   const [publications, setPublications] = useState([]);
@@ -25,21 +26,6 @@ function Publications() {
       </div>
     </>
   )
-}
-
-function ListPublications({ publications }){
-    return (
-      <hgroup>
-      <h1>My Publications</h1>
-      <div>
-        {
-          publications.map(publication => (
-            <p key={publication.id}><a href={publication.url}>{publication.name}</a><br/>{publication.authors}<br/>{publication.venue}, {publication.year}</p>
-          ))
-        }
-      </div>
-      </hgroup>
-    )
 }
 
 export default Publications;

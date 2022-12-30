@@ -5,7 +5,8 @@ img {
   max-width: 100%;
   object-fit: cover;
   width: 100%;
-  height: 150px;
+  height: 200px;
+  border-radius: 15px 15px 0px 0px;
 }
 
 header {
@@ -32,6 +33,11 @@ h1 {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin: 10px;
+}
+
+.rounded {
+  border-radius: 15px!important;
 }
 
 /* Pink Light scheme (Default) */

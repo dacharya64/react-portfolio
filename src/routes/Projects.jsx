@@ -25,6 +25,7 @@ function Projects() {
   return (
     <div>
       <ProjectNav />
+      <h1>Featured Projects</h1>
       <ListAllResearch projects={research} />
       <ListAllGames projects={games} />
     </div>
