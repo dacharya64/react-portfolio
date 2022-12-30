@@ -4,13 +4,12 @@ import ProjectNav from '../components/ProjectNav';
 import About from '../components/About';
 import Footer from '../components/Footer';
 import ListAllGames from '../components/ListAllGames';
-import OtherGames from '../components/OtherGames';
 
 function Games() {
     const [projects, setProjects] = useState([]);
 
     async function fetchProjects() {
-        const response = await fetch('./json/games.json');
+        const response = await fetch('./json/projects.json');
         setProjects(await response.json());
     }
 
@@ -25,7 +24,6 @@ function Games() {
             <ProjectNav />
             <h1>Games</h1>
             <ListAllGames projects={projects} />
-            <OtherGames />
             <Footer />
         </div>
     )

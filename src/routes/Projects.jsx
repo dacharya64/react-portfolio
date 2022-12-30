@@ -1,33 +1,24 @@
-import ListAllGames from '../components/ListAllGames';
-import ListAllResearch from '../components/ListAllResearch';
+import ListPriority from '../components/ListPriority';
 import ProjectNav from '../components/ProjectNav';
 import React, { useEffect, useState } from 'react';
 
 function Projects() {
-  const [research, setResearch] = useState([]);
-  const [games, setGames] = useState([]);
+  const [projects, setProjects] = useState([]);
 
-    async function fetchResearch() {
-        const response = await fetch('./json/research.json');
-        setResearch(await response.json());
+    async function fetchProjects() {
+        const response = await fetch('./json/projects.json');
+        setProjects(await response.json());
     }
 
-    async function fetchGames() {
-      const response = await fetch('./json/games.json');
-      setGames(await response.json());
-  }
-
     useEffect(() => {
-      fetchResearch();
-      fetchGames();
+      fetchProjects();
     });
 
   return (
     <div>
       <ProjectNav />
       <h1>Featured Projects</h1>
-      <ListAllResearch projects={research} />
-      <ListAllGames projects={games} />
+      <ListPriority projects={projects} />
     </div>
   )
 }

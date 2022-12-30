@@ -11,7 +11,7 @@ function Research() {
     const [publications, setPublications] = useState([]);
 
     async function fetchProjects(path) {
-        const response = await fetch('./json/' + path + '.json');
+        const response = await fetch('./json/projects.json');
         setProjects(await response.json());
     }
 

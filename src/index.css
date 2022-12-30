@@ -40,6 +40,13 @@ h1 {
   border-radius: 15px!important;
 }
 
+.grid {
+    display: "grid";
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1rem;
+    margin-bottom: '1rem'
+}
+
 /* Pink Light scheme (Default) */
 /* Can be forced with data-theme="light" */
 [data-theme="light"],

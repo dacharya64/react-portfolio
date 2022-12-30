@@ -17,6 +17,7 @@ const Nav = () => {
           </ul>
         </li>
         <li><a href="#" role="button" className="outline"><Link to={`/publications`}>Publications</Link></a></li>
+        <li><a href="mailto:dacharya64@gmail.com" role="button" className="outline">Contact</a></li>
       </ul>
     </nav>
   );

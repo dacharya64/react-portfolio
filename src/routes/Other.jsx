@@ -9,7 +9,7 @@ function Other() {
     const [projects, setProjects] = useState([]);
 
     async function fetchProjects() {
-        const response = await fetch('./json/other.json');
+        const response = await fetch('./json/projects.json');
         setProjects(await response.json());
     }
 

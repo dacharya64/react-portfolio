@@ -1,0 +1,98 @@
+[
+    {
+        "id": "ttrpg",
+        "priority": true,
+        "tag": "research",
+        "name": "Tabletop Roleplaying Game AI Assistant",
+        "slug": "ttrpg.png",
+        "description": "A computational support tool for game masters of tabletop roleplaying games"
+    },
+    {
+        "id": "warmer",
+        "priority": true,
+        "tag": "games",
+        "name": "Warmer",
+        "role": "Unity Developer",
+        "slug": "warmer.png",
+        "description": "A browser-based game about climate change and human impacts on the environment. An NSF-funded project @ the University of California, Santa Cruz."
+    },
+    {
+        "id": "vr",
+        "priority": true,
+        "tag": "research", 
+        "name": "Spatial Cognition in Virtual Reality", 
+        "slug": "vr.jpg",
+        "description": "Studies on the effects of teleporting in virtual reality on spatial cognition"
+    },
+    {
+        "id": "escape_room",
+        "priority": true,
+        "tag": "research", 
+        "name": "Co-Located Virtual Reality / Physical Escape Room", 
+        "slug": "escape.png",
+        "description": "An escape room that explores asymmetric puzzle-solving in physical and virtual spaces"
+    },
+    {
+        "id": "terasology", 
+        "priority": false,
+        "tag": "games",
+        "name": "Terasology: Light and Shadow", 
+        "role": "Java Developer", 
+        "slug": "terasology.jpg", 
+        "description": "A capture-the-flag game mode made for open-source voxel game Terasology, funded by Google Summer of Code."
+    },
+    {
+        "id": "fusion",
+        "priority": true,
+        "tag": "games",
+        "name": "Fusion Galaxy", 
+        "role": "Lead Artist", 
+        "slug": "cl.jpg",
+        "description": "A mobile game about collecting and crafting elements together to discover the universe, funded by the Massachusetts Digital Games Institute."
+    },
+    {
+        "id": "red_survivor",
+        "priority": false,
+        "tag": "games",
+        "name": "Red Survivor",
+        "role": "UI Artist",
+        "slug": "rs.jpg",
+        "description": "A survival strategy PC game, where you gather resources to survive against killer robots in a war-torn Russia. Made with a team at Mustachio Games. Shown at Boston Festival of Indie Games, 2014."
+    },
+    {
+        "id": "if",
+        "priority": false,
+        "tag": "games",
+        "name": "The Abyss and The Ark", 
+        "role": "Writer", 
+        "slug": "abyss.jpg",
+        "description": "Authored and co-authored several interactive fiction games, including The Abyss--a surreal exploration of the mind--and The Ark--a puzzle game set aboard a derelict spaceship."
+    },
+    {
+        "id": "subq",
+        "priority": true,
+        "tag": "other",
+        "name": "sub-Q Magazine",
+        "role": "Editor",
+        "slug": "subq.jpg",
+        "description": "Co-ran online magazine for interactive fiction by reviewing submissions, editing pieces, and interviewing authors."
+    },
+    {
+        "id": "oet", 
+        "priority": false,
+        "tag": "other",
+        "name": "On Equal Terms", 
+        "role": "Research Assistant", 
+        "slug": "equalterms.jpg", 
+        "description": "Developed interactive digital exhibit about the experiences of tradeswomen with the Women's Studies Research Center at Brandeis University."
+    },
+    {
+        "id": "film",
+        "priority": false,
+        "tag": "other",
+        "name": "Films and animation", 
+        "role": "Cinematographer, animator, editor", 
+        "slug": "animation.gif",
+        "description": "Created short films and animations as part of the CET study abroad program in Prague and the Getz Media Lab at Brandeis University."
+    }
+]

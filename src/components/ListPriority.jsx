@@ -1,11 +1,11 @@
 import React from 'react';
 import Card from './Card';
 
-function ListAllOther({ projects }) {
+function ListPriority({ projects }) {
   return (
       <div className="grid">
         {
-          projects.filter(allProjects => allProjects.tag == "other").map(project => (
+          projects.filter(allProjects => allProjects.priority == true).map(project => (
             <Card project={project}/>
           ))
         }
@@ -13,4 +13,4 @@ function ListAllOther({ projects }) {
   )
 }
 
-export default ListAllOther;
+export default ListPriority;
