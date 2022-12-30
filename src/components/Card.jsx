@@ -7,9 +7,9 @@ function Card({ project }) {
                 <img src={`img/${project.slug}`} alt={project.name} />
             </header>
             <h5>{project.name}</h5>
+            <p><em>{project.role}</em></p>
             <p>{project.description}</p>
-            <a href="#" role="button" className="outline">Read more</a>
-            <a href="#" role="button" className="outline">Check it out</a>
+            <a href={project.url} role="button" className="outline">Check it out</a>
         </article>
     )
 }

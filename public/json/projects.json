@@ -4,8 +4,10 @@
         "priority": true,
         "tag": "research",
         "name": "Tabletop Roleplaying Game AI Assistant",
+        "role": "Lead Researcher, Developer",
         "slug": "ttrpg.png",
-        "description": "A computational support tool for game masters of tabletop roleplaying games"
+        "description": "A computational support tool for game masters of tabletop roleplaying games.",
+        "url": "https://www.devi-a.com/CompExamPortfolio/ttrpg.html"
     },
     {
         "id": "warmer",
@@ -14,23 +16,28 @@
         "name": "Warmer",
         "role": "Unity Developer",
         "slug": "warmer.png",
-        "description": "A browser-based game about climate change and human impacts on the environment. An NSF-funded project @ the University of California, Santa Cruz."
+        "description": "An NSF-funded game about climate change and human impacts on the environment using real environmental models.",
+        "url": "https://github.com/dacharya64/UCSCClimateGame"
     },
     {
         "id": "vr",
         "priority": true,
         "tag": "research", 
-        "name": "Spatial Cognition in Virtual Reality", 
+        "role": "Researcher, Unity Developer",
+        "name": "Spatial Cognition in VR", 
         "slug": "vr.jpg",
-        "description": "Studies on the effects of teleporting in virtual reality on spatial cognition"
+        "description": "Studying the effects of teleporting in virtual reality using triangle completion tasks in Unity enviroments.",
+        "url": "https://dr.lib.iastate.edu/entities/publication/b2750a5d-70af-4fd3-81ce-69c2f338effd"
     },
     {
         "id": "escape_room",
         "priority": true,
         "tag": "research", 
-        "name": "Co-Located Virtual Reality / Physical Escape Room", 
+        "role": "Researcher, Mentor",
+        "name": "VR / Physical Escape Room", 
         "slug": "escape.png",
-        "description": "An escape room that explores asymmetric puzzle-solving in physical and virtual spaces"
+        "description": "An escape room with asymmetrical puzzle-solving in physical and virtual reality spaces. Made for UCSC's Science Internship Program.",
+        "url": "https://www.devi-a.com/CompExamPortfolio/escaperoom.html"
     },
     {
         "id": "terasology", 
@@ -39,7 +46,8 @@
         "name": "Terasology: Light and Shadow", 
         "role": "Java Developer", 
         "slug": "terasology.jpg", 
-        "description": "A capture-the-flag game mode made for open-source voxel game Terasology, funded by Google Summer of Code."
+        "description": "A capture-the-flag game mode made for open-source voxel game Terasology, made as part of Google Summer of Code.",
+        "url": "https://dacharya64.postach.io/post/gsoc-final-project-wrapup"
     },
     {
         "id": "fusion",
@@ -48,7 +56,8 @@
         "name": "Fusion Galaxy", 
         "role": "Lead Artist", 
         "slug": "cl.jpg",
-        "description": "A mobile game about collecting and crafting elements together to discover the universe, funded by the Massachusetts Digital Games Institute."
+        "description": "A mobile game about collecting and crafting elements together to discover the universe, made with the Massachusetts Digital Games Institute.",
+        "url": "https://apps.apple.com/us/app/fusion-galaxy/id999077925#?platform=ipad"
     },
     {
         "id": "red_survivor",
@@ -57,7 +66,8 @@
         "name": "Red Survivor",
         "role": "UI Artist",
         "slug": "rs.jpg",
-        "description": "A survival strategy PC game, where you gather resources to survive against killer robots in a war-torn Russia. Made with a team at Mustachio Games. Shown at Boston Festival of Indie Games, 2014."
+        "description": "A strategy game where the player fights to survive against killer robots in a war-torn Russia. Made with a team at Mustachio Games. Shown at Boston Festival of Indie Games, 2014.",
+        "url": "https://mustachiogames.itch.io/red-survivor"
     },
     {
         "id": "if",
@@ -66,7 +76,8 @@
         "name": "The Abyss and The Ark", 
         "role": "Writer", 
         "slug": "abyss.jpg",
-        "description": "Authored and co-authored several interactive fiction games, including The Abyss--a surreal exploration of the mind--and The Ark--a puzzle game set aboard a derelict spaceship."
+        "description": "Authored and co-authored several interactive fiction games, including The Abyss--a surreal exploration of the mind--and The Ark--a puzzle game set aboard a derelict spaceship.",
+        "url": "https://textadventures.co.uk/games/view/ob1-nceir0a6dpocknuxyw/the-abyss"
     },
     {
         "id": "subq",
@@ -75,7 +86,8 @@
         "name": "sub-Q Magazine",
         "role": "Editor",
         "slug": "subq.jpg",
-        "description": "Co-ran online magazine for interactive fiction by reviewing submissions, editing pieces, and interviewing authors."
+        "description": "Co-ran online literary magazine for interactive fiction fantasy, science fiction, and horror. Reviewed submissions, edited pieces, and interviewed authors.",
+        "url": "https://sub-q.com/"
     },
     {
         "id": "oet", 
@@ -84,7 +96,8 @@
         "name": "On Equal Terms", 
         "role": "Research Assistant", 
         "slug": "equalterms.jpg", 
-        "description": "Developed interactive digital exhibit about the experiences of tradeswomen with the Women's Studies Research Center at Brandeis University."
+        "description": "Developed interactive digital exhibit about the experiences of tradeswomen with the Women's Studies Research Center at Brandeis University.",
+        "url": "https://onequalter.ms/"
     },
     {
         "id": "film",
@@ -93,6 +106,7 @@
         "name": "Films and animation", 
         "role": "Cinematographer, animator, editor", 
         "slug": "animation.gif",
-        "description": "Created short films and animations as part of the CET study abroad program in Prague and the Getz Media Lab at Brandeis University."
+        "description": "Created short films and animations as part of the CET study abroad program in Prague and the Getz Media Lab at Brandeis University.",
+        "url": "https://vimeo.com/showcase/5756343"
     }
 ]
